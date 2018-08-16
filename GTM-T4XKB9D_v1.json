@@ -1,0 +1,52 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2018-08-09 06:17:35",
+    "containerVersion": {
+        "path": "accounts/3795271603/containers/9617758/versions/1",
+        "accountId": "3795271603",
+        "containerId": "9617758",
+        "containerVersionId": "1",
+        "name": "kmaonchy.com android",
+        "description": "kmaonchy.com +6282318291238 kma.onchy@gmail.com",
+        "container": {
+            "path": "accounts/3795271603/containers/9617758",
+            "accountId": "3795271603",
+            "containerId": "9617758",
+            "name": "www.kmaonchy.com",
+            "publicId": "GTM-T4XKB9D",
+            "usageContext": [
+                "ANDROID_SDK_5"
+            ],
+            "fingerprint": "1533615922325",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/3795271603/containers/9617758/workspaces?apiLink=container"
+        },
+        "builtInVariable": [
+            {
+                "accountId": "3795271603",
+                "containerId": "9617758",
+                "type": "EVENT_NAME",
+                "name": "Event Name"
+            },
+            {
+                "accountId": "3795271603",
+                "containerId": "9617758",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "3795271603",
+                "containerId": "9617758",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "3795271603",
+                "containerId": "9617758",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            }
+        ],
+        "fingerprint": "1533616022690",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/3795271603/containers/9617758/versions/1?apiLink=version"
+    }
+}
