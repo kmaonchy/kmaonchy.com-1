@@ -1,0 +1,150 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Wikimedia Commons picture of the day feed</title>
+<link>https://commons.wikimedia.org/wiki/Main_Page</link>
+<description>Some of the finest images on Wikimedia Commons</description>
+<language>en</language>
+<generator>MediaWiki 1.32.0-wmf.16</generator>
+<lastBuildDate>Mon, 13 Aug 2018 15:34:47 GMT</lastBuildDate>
+<item>
+<title>Wikimedia Commons picture of the day for August 4</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180804000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180804000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Four_pears.jpg" class="image"><img alt="Four pears.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Four_pears.jpg/300px-Four_pears.jpg" width="300" height="141" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Four_pears.jpg/450px-Four_pears.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Four_pears.jpg/600px-Four_pears.jpg 2x" data-file-width="4426" data-file-height="2080" /></a> </td></tr> <tr> <td><div lang="en" class="description en">Four pears: green Bartlett (Williams), D'Anjou, Forelle, and red Bartlett (Williams) </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Sat, 04 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 5</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180805000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180805000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG" class="image"><img alt="Stift Zwettl Kreuzgang Nordflügel 02.JPG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG/300px-Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG" width="300" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG/450px-Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG/600px-Stift_Zwettl_Kreuzgang_Nordfl%C3%BCgel_02.JPG 2x" data-file-width="5863" data-file-height="3909" /></a> </td></tr> <tr> <td><div lang="en" class="description en">North wing of the <a href="https://en.wikipedia.org/wiki/cloister" class="extiw" title="w:cloister">cloister</a> at <a href="https://en.wikipedia.org/wiki/Zwettl_Abbey" class="extiw" title="w:Zwettl Abbey">Zwettl Abbey</a>, Lower Austria </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Sun, 05 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 6</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180806000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180806000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Rufous-tailed_flycatcher_(Myiarchus_validus).JPG" class="image"><img alt="Rufous-tailed flycatcher (Myiarchus validus).JPG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rufous-tailed_flycatcher_%28Myiarchus_validus%29.JPG/300px-Rufous-tailed_flycatcher_%28Myiarchus_validus%29.JPG" width="300" height="250" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rufous-tailed_flycatcher_%28Myiarchus_validus%29.JPG/450px-Rufous-tailed_flycatcher_%28Myiarchus_validus%29.JPG 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rufous-tailed_flycatcher_%28Myiarchus_validus%29.JPG/600px-Rufous-tailed_flycatcher_%28Myiarchus_validus%29.JPG 2x" data-file-width="3108" data-file-height="2593" /></a> </td></tr> <tr> <td><div lang="en" class="description en">A <a href="https://en.wikipedia.org/wiki/Rufous-tailed_flycatcher" class="extiw" title="w:Rufous-tailed flycatcher">Rufous-tailed flycatcher</a> (<i><a href="/wiki/Myiarchus_validus" title="Myiarchus validus">Myiarchus validus</a></i>) in <a href="https://en.wikipedia.org/wiki/Jamaica" class="extiw" title="w:Jamaica">Jamaica</a>. <a href="https://en.wikipedia.org/wiki/Jamaica" class="extiw" title="w:Jamaica">Jamaica</a> gained independence from the <a href="https://en.wikipedia.org/wiki/United_Kingdom" class="extiw" title="w:United Kingdom">United Kingdom</a> on 6 August 1962. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 7</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180807000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180807000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Haltern_am_See,_Westruper_Heide_--_2015_--_7985-9.jpg" class="image"><img alt="Haltern am See, Westruper Heide -- 2015 -- 7985-9.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haltern_am_See%2C_Westruper_Heide_--_2015_--_7985-9.jpg/300px-Haltern_am_See%2C_Westruper_Heide_--_2015_--_7985-9.jpg" width="300" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haltern_am_See%2C_Westruper_Heide_--_2015_--_7985-9.jpg/450px-Haltern_am_See%2C_Westruper_Heide_--_2015_--_7985-9.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haltern_am_See%2C_Westruper_Heide_--_2015_--_7985-9.jpg/600px-Haltern_am_See%2C_Westruper_Heide_--_2015_--_7985-9.jpg 2x" data-file-width="5467" data-file-height="3650" /></a> </td></tr> <tr> <td><div lang="en" class="description en">Nature reserve “<a href="/wiki/Category:Westruper_Heide" title="Category:Westruper Heide">Westruper Heide</a>” at the beginning of flowering of the heath, <a href="/wiki/Category:Haltern_am_See" title="Category:Haltern am See">Haltern am See</a>, North Rhine-Westphalia, Germany </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 8</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180808000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180808000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg" class="image"><img alt="Airbus AS355F1 Twin Squirrel Helicopter with Buachaille Etive Mòr.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg/300px-Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg" width="300" height="169" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg/450px-Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg/600px-Airbus_AS355F1_Twin_Squirrel_Helicopter_with_Buachaille_Etive_M%C3%B2r.jpg 2x" data-file-width="4833" data-file-height="2719" /></a> </td></tr> <tr> <td><div lang="en" class="description en">An <a href="https://en.wikipedia.org/wiki/Eurocopter_AS355" class="extiw" title="w:Eurocopter AS355">Airbus Helicopters AS355F1 Twin Squirrel</a> helicopter in Scotland, with <a href="https://en.wikipedia.org/wiki/Buachaille_Etive_M%C3%B2r" class="extiw" title="w:Buachaille Etive Mòr">Buachaille Etive Mòr</a> in the background. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Wed, 08 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 9</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180809000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180809000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Plectranthus_scutellarioides_NBG_LR.jpg" class="image"><img alt="Plectranthus scutellarioides NBG LR.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Plectranthus_scutellarioides_NBG_LR.jpg/300px-Plectranthus_scutellarioides_NBG_LR.jpg" width="300" height="187" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Plectranthus_scutellarioides_NBG_LR.jpg/450px-Plectranthus_scutellarioides_NBG_LR.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Plectranthus_scutellarioides_NBG_LR.jpg/600px-Plectranthus_scutellarioides_NBG_LR.jpg 2x" data-file-width="6000" data-file-height="3742" /></a> </td></tr> <tr> <td><div lang="en" class="description en"><a href="https://en.wikipedia.org/wiki/Plectranthus_scutellarioides" class="extiw" title="en:Plectranthus scutellarioides"><i>Plectranthus scutellarioides</i></a>, Coleus, at <a href="https://en.wikipedia.org/wiki/Norfolk_Botanical_Garden" class="extiw" title="en:Norfolk Botanical Garden">Norfolk Botanical Garden</a>. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Thu, 09 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 10</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180810000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180810000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg" class="image"><img alt="Leichtathletik WM 2013 Moskau 100 m Vorlauf.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg/300px-Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg" width="300" height="131" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg/450px-Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg/600px-Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg 2x" data-file-width="2450" data-file-height="1067" /></a> </td></tr> <tr> <td><div lang="en" class="description en"><a href="https://en.wikipedia.org/wiki/Usain_Bolt" class="extiw" title="en:Usain Bolt">Usain Bolt</a> (Jamaica) during the 100 m heat of the <a href="https://en.wikipedia.org/wiki/2013_World_Championships_in_Athletics" class="extiw" title="en:2013 World Championships in Athletics">14th IAAF World Championships in Athletics</a> in <a href="https://en.wikipedia.org/wiki/Moscow" class="extiw" title="en:Moscow">Moscow</a>, <a href="https://en.wikipedia.org/wiki/Russia" class="extiw" title="en:Russia">Russia</a>. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Fri, 10 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 11</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180811000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180811000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Landgericht_Berlin,_Littenstra%C3%9Fe,_Eingangshalle_(2),_160906,_ako.jpg" class="image"><img alt="Landgericht Berlin, Littenstraße, Eingangshalle (2), 160906, ako.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Landgericht_Berlin%2C_Littenstra%C3%9Fe%2C_Eingangshalle_%282%29%2C_160906%2C_ako.jpg/300px-Landgericht_Berlin%2C_Littenstra%C3%9Fe%2C_Eingangshalle_%282%29%2C_160906%2C_ako.jpg" width="300" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Landgericht_Berlin%2C_Littenstra%C3%9Fe%2C_Eingangshalle_%282%29%2C_160906%2C_ako.jpg/450px-Landgericht_Berlin%2C_Littenstra%C3%9Fe%2C_Eingangshalle_%282%29%2C_160906%2C_ako.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Landgericht_Berlin%2C_Littenstra%C3%9Fe%2C_Eingangshalle_%282%29%2C_160906%2C_ako.jpg/600px-Landgericht_Berlin%2C_Littenstra%C3%9Fe%2C_Eingangshalle_%282%29%2C_160906%2C_ako.jpg 2x" data-file-width="4972" data-file-height="3315" /></a> </td></tr> <tr> <td><div lang="en" class="description en">Entrance hall of the regional court of Berlin located in Littenstrasse 12-17 in Berlin-Mitte. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Sat, 11 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 12</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180812000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180812000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Eligma_narcissus-Kadavoor-2017-06-04-002.jpg" class="image"><img alt="Eligma narcissus-Kadavoor-2017-06-04-002.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eligma_narcissus-Kadavoor-2017-06-04-002.jpg/300px-Eligma_narcissus-Kadavoor-2017-06-04-002.jpg" width="300" height="450" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eligma_narcissus-Kadavoor-2017-06-04-002.jpg/450px-Eligma_narcissus-Kadavoor-2017-06-04-002.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eligma_narcissus-Kadavoor-2017-06-04-002.jpg/600px-Eligma_narcissus-Kadavoor-2017-06-04-002.jpg 2x" data-file-width="2955" data-file-height="4432" /></a> </td></tr> <tr> <td><div lang="en" class="description en"><i><a href="https://en.wikipedia.org/wiki/Eligma_narcissus" class="extiw" title="en:Eligma narcissus">Eligma narcissus</a></i> is a moth in the <a href="https://en.wikipedia.org/wiki/Nolidae" class="extiw" title="en:Nolidae">Nolidae</a> family. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Sun, 12 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+<item>
+<title>Wikimedia Commons picture of the day for August 13</title>
+<link>
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180813000000/en
+</link>
+<guid isPermaLink="false">
+https://commons.wikimedia.org/wiki/Special:FeedItem/potd/20180813000000/en
+</guid>
+<description>
+<div class="mw-parser-output"><div class="floatright"> <table class="toccolours" style="width:300px;text-align:center"> <tr> <th lang="en"><a href="/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">Picture of the day</a> </th></tr> <tr> <td class="toccolours" style="padding:0"><a href="/wiki/File:Reflection_on_the_Salar_de_Uyuni,_bolivia.jpg" class="image"><img alt="Reflection on the Salar de Uyuni, bolivia.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg/300px-Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg" width="300" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg/450px-Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg/600px-Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg 2x" data-file-width="4896" data-file-height="3264" /></a> </td></tr> <tr> <td><div lang="en" class="description en"><a href="https://en.wikipedia.org/wiki/Toyota_Land_Cruiser" class="extiw" title="w:Toyota Land Cruiser">Toyota Land Cruiser</a> at the <a href="https://en.wikipedia.org/wiki/Salar_de_Uyuni" class="extiw" title="w:Salar de Uyuni">Salar de Uyuni</a>, <a href="https://en.wikipedia.org/wiki/Bolivia" class="extiw" title="w:Bolivia">Bolivia</a>. During the winter, the <a href="https://en.wikipedia.org/wiki/Salar_de_Uyuni" class="extiw" title="w:Salar de Uyuni">Salar de Uyuni</a> is mostly dry but a small patch close to the city of Uyuni remains covered with water. This photo was taken at sunrise time. </div>&#160; </td></tr></table> </div> </div>
+</description>
+<pubDate>Mon, 13 Aug 2018 00:00:00 GMT</pubDate>
+<dc:creator/>
+</item>
+</channel>
+</rss>
