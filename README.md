@@ -1,1 +1,1 @@
-https://github.com/ridwanonchy/kmaonchy.com.git
+https://kmaonchy.com
